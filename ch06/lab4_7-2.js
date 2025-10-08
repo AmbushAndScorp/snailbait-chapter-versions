@@ -149,8 +149,8 @@ var SnailBait = function () {
    ];
 
    this.pixieCells = [
-      { left: 3, top: 976, width: this.PIXIE_CELLS_WIDTH, height: this.PIXIE_CELLS_HEIGHT},
-      { left: 35, top: 976, width: this.PIXIE_CELLS_WIDTH, height: this.PIXIE_CELLS_HEIGHT}
+      { left: 0, top: 991, width: this.PIXIE_CELLS_WIDTH, height: this.PIXIE_CELLS_HEIGHT},
+      { left: 32, top: 991, width: this.PIXIE_CELLS_WIDTH, height: this.PIXIE_CELLS_HEIGHT}
    ];
 
    this.batRedEyeCells = [
